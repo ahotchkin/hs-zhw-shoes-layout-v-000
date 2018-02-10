@@ -60,8 +60,8 @@ tr:nth-child(even) {
 
 th, td {
 	padding: 10px;
-	border-right: 10px solid #ccc;
-	border-bottom: 10px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 }
 
 th {
